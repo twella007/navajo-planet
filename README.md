@@ -1,2 +1,2 @@
 # Navajo-Planet
-Teaching the Navajo language through flash cards
+Teaching the Navajo language through flash cards in Navajo Planet
